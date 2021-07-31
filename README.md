@@ -9,7 +9,7 @@ There were two key views of the data that were developed to conduct this analysi
 ### Tabular View of Key Performance Indicators
 
 
-![PyBer_tabular](Analysis/PyBer_tabular.png)
+![PyBer_tabular](analysis/PyBer_tabular.png)
 
 A few key differences across groups becomes quickly apparent when evaluating the data table.  
 
@@ -19,7 +19,7 @@ A few key differences across groups becomes quickly apparent when evaluating the
 
 ### Plotting Ride Share Data Over Time
 
-![PyBer_fare_summary](Analysis/PyBer_fare_summary.png)
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
 In evaluating the time period from January through April (in weekly increments), there are a few patterns that emerge.
 
